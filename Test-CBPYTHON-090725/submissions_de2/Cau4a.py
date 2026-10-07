@@ -1,0 +1,7 @@
+# a)
+empty_tuple = ()
+single_tuple = (5,)
+mixed_tuple = (10, "apple", 3.14)
+print(empty_tuple)
+print(single_tuple)
+print(mixed_tuple)
